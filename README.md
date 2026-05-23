@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Hotel Management CMS - MySQL Production Starter
 
 A production-ready starter for a Hotel Management System CMS/admin panel using:

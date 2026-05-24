@@ -62,5 +62,3 @@ npm run dev
 - MySQL normalized schema
 - Flyway migration
 - Docker Compose
->>>>>>> fa922eddd8a76b43c4e9a6501739820c32a4dada
-"# hms-backend" 
